@@ -8,12 +8,12 @@ public class StudentDriver {
     private static CourseProgramme CSIT, COMM, SCI, ARTS, NURS;
 
     public static void main(String[] args) {
-        // Add Students for Test
-        registerStudents();
         // Add New Courses, with Start Date and End Date
         newCourses();
         // Add New Modules and Module Code
         newModules();
+        // Add Students for Test
+        registerStudents();
         // Add Related Modules to Courses
         addModuleToCourse();
 
@@ -52,7 +52,7 @@ public class StudentDriver {
 
     private static void registerStudents() {
         John = new Student("JohnSmith", 00001, 21, 5, 2002, CSIT);
-        Jack = new Student("JackSparrow", 00002, 4, 7, 1998,COMM);
+        Jack = new Student("JackSparrow", 00002, 4, 7, 1998, COMM);
         Sarah = new Student("SarahPalin", 00003, 31, 01, 1994, SCI);
         Tom = new Student("TomJones", 00004, 5, 12, 2000, ARTS);
         Rachel = new Student("RachelGreen", 00005, 16, 3, 1999, NURS);
