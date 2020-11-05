@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.ncasey98:CT417:v1.00">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ncasey98/CT417/V1.00/CT417-v1.00.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ncasey98/CT417/V1.00/CT417-v1.00-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ncasey98/CT417/V1.00/CT417-v1.00-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
